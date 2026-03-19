@@ -7,14 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c901a0f-4bcc-42d2-b84e-b333b5afd28b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/GenerateAssemblyInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateAssemblyInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HpiTester/HpiTester.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HpiTester/HpiTester.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TAUtil.Gdi/TAUtil.Gdi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TAUtil.Gdi/TAUtil.Gdi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TAUtil.HpiUtil/TAUtil.HpiUtil.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TAUtil.HpiUtil/TAUtil.HpiUtil.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TAUtil/TAUtil.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TAUtil/TAUtil.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TAUtilTest/TAUtilTest/TAUtilTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TAUtilTest/TAUtilTest/TAUtilTest.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="5c901a0f-4bcc-42d2-b84e-b333b5afd28b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +82,7 @@
       <updated>1773579424325</updated>
       <workItem from="1773579425421" duration="342000" />
       <workItem from="1773579773538" duration="655000" />
+      <workItem from="1773580838546" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="rider">
       <option name="closed" value="true" />
@@ -114,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773579887787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="So much python fun">
+      <option name="closed" value="true" />
+      <created>1773580899095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773580899095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +140,7 @@
     <MESSAGE value="rider" />
     <MESSAGE value="Rider files" />
     <MESSAGE value="v4.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="v4.8" />
+    <MESSAGE value="So much python fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="So much python fun" />
   </component>
 </project>
